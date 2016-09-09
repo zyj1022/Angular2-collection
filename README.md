@@ -22,7 +22,9 @@ Angular2-学习资源收集整理,近期学习资料。
 
 - [DanWahlin/Angular2-JumpStart](https://github.com/DanWahlin/Angular2-JumpStart)
 
--  [angular2-tutorial](http://lewis617.github.io/angular2-tutorial/) 
+- [angular2-tutorial](http://lewis617.github.io/angular2-tutorial/) 
+- [angular2-examples](https://github.com/eggheadio/angular2-examples)   eggheadio提供 
+
 
 
 # 官网
